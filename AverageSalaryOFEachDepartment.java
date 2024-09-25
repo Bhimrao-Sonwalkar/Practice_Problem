@@ -1,4 +1,3 @@
-package Java8_InterviewProblem;
 
 import java.util.stream.Collectors;
 import java.util.*;
